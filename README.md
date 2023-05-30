@@ -26,6 +26,10 @@ b=a-b
 a=a-b
 print("Swapped values are:",a,b)
 ```
+##OUTPUT:
+![Screenshot 2023-05-30 192526](https://github.com/AnandhamoorthyKarthikeyan/Swapping-two-values/assets/119475998/8f49cba2-a4fc-41de-bb0a-d5e0562c7516)
+![Screenshot 2023-05-30 192526](https://github.com/AnandhamoorthyKarthikeyan/Swapping-two-values/assets/119475998/70ae2b63-898f-40b0-9a02-f1ba79c8bd9b)
+
 
 
 ## RESULT:
